@@ -1,8 +1,10 @@
-package com.debugger.java.challenges;
+package com.debugger.java.challenges.test;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import com.debugger.java.challenges.EvenOrOdd;
 
 public class EvenOrOddTest {
 
